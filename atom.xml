@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title><![CDATA[The Bishop's School French Journal]]></title>
-	<link href="http://tbsfrench.github.com/atom.xml" rel="self"/>
-	<link href="http://tbsfrench.github.com/"/>
-	<updated>2012-06-16T19:40:44-07:00</updated>
-	<id>http://tbsfrench.github.com/</id>
-	<author>
-		<name><![CDATA[French Club]]></name>
-		
-	</author>
-	<generator uri="http://octopress.org/">Octopress</generator>
+  <title><![CDATA[The Bishop's School French Journal]]></title>
+  <link href="http://tbsfrench.github.com/atom.xml" rel="self"/>
+  <link href="http://tbsfrench.github.com/"/>
+  <updated>2012-06-16T20:25:20-07:00</updated>
+  <id>http://tbsfrench.github.com/</id>
+  <author>
+    <name><![CDATA[French Club]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-	
+  
 </feed>
