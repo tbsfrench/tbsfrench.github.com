@@ -1,3 +1,5 @@
+require 'susy'
+
 # Require any additional compass plugins here.
 project_type = :stand_alone
 
