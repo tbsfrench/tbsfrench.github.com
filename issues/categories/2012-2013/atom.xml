@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 2012-2013 | The Bishop's School French Journal]]></title>
+  <link href="http://tbsfrench.github.com/issues/categories/2012-2013/atom.xml" rel="self"/>
+  <link href="http://tbsfrench.github.com/"/>
+  <updated>2012-12-19T22:29:47-08:00</updated>
+  <id>http://tbsfrench.github.com/</id>
+  <author>
+    <name><![CDATA[The Bishop's School French Club]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[December 2012]]></title>
+    <link href="http://tbsfrench.github.com/issues/2012/12/"/>
+    <updated>2012-12-17T17:46:00-08:00</updated>
+    <id>http://tbsfrench.github.com/issues/2012/december-2012</id>
+    <content type="html"><![CDATA[<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/117467648/content?start_page=1&view_mode=list&access_key=key-3p6s9rh0tta8tb15phq" data-auto-height="true" data-aspect-ratio="0.772727272727273" scrolling="no" id="doc_58714" width="100%" height="600" frameborder="0"></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[October 2012]]></title>
+    <link href="http://tbsfrench.github.com/issues/2012/10/"/>
+    <updated>2012-10-01T10:46:00-07:00</updated>
+    <id>http://tbsfrench.github.com/issues/2012/october-2012</id>
+    <content type="html"><![CDATA[<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/117466681/content?start_page=1&view_mode=list&access_key=key-1pujqrzdc1fh8hj2ngu6" data-auto-height="true" data-aspect-ratio="0.772727272727273" scrolling="no" id="doc_34938" width="100%" height="600" frameborder="0"></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
