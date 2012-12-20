@@ -1,0 +1,10 @@
+---
+layout: post
+title: "December 2012"
+date: 2012-12-17 17:46
+comments: true
+published: true
+categories: 2012-2013
+---
+
+<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/117467648/content?start_page=1&view_mode=list&access_key=key-3p6s9rh0tta8tb15phq" data-auto-height="true" data-aspect-ratio="0.772727272727273" scrolling="no" id="doc_58714" width="100%" height="600" frameborder="0"></iframe>

@@ -4,8 +4,8 @@
 
 url: http://tbsfrench.github.com
 title: The Bishop's School French Journal
-subtitle: Monthly magazines in French.
-author: French Club
+subtitle: A quarterly magazine published by French-speaking students at The Bishop's School.
+author: The Bishop's School French Club
 simple_search: http://google.com/search
 description:
 
@@ -37,7 +37,7 @@ markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+pagination_dir: issues  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
