@@ -7,4 +7,6 @@ published: true
 categories: 2012-2013
 ---
 
+<p><a href="https://dl.dropboxusercontent.com/u/88008064/FrJournals/2012-2013/May%202013.pdf">Download this issue as a PDF</a></p>
+
 <iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/146388666/content?start_page=1&view_mode=list&access_key=key-on1pvu1j4vhmfzaob6f" data-auto-height="true" data-aspect-ratio="0.772727272727273" scrolling="no" id="doc_10012" width="100%" height="600" frameborder="0"></iframe>
